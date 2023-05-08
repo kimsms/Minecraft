@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKwAte1UKcl1/MKYc0Ujl7hWUU2iB5KyI2Co8W9e37IiWHeJlDN+f6XkHNb0SD9Bt5mPwYCfZR23KGBOt/InOg==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\ImageAutoClick\\ImageAutoClick\\ImageAutoClick.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ksm28\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ksm28\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\ksm28\\.nuget\\packages\\opencvsharp3-anycpu\\4.0.0.20181129\\opencvsharp3-anycpu.4.0.0.20181129.nupkg.sha512",
+    "C:\\Users\\ksm28\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
